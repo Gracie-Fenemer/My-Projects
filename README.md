@@ -6,19 +6,18 @@
 ## Courses - Code First Girls
 - Intro to Coding
 - Intro to Web Development
-- CFG Degree 
+- _CFG Degree_
      
 ## Courses - Free Code Camp
 - Intro to Html, building a cat photo app
 - Intro to Python
-- _Potentially intro to JavaScript_  
    
 ## My Skills
 - Python
 - HTML
 - JavaSript
 - CSS
-- Github
+- _Github_
       
 ## Education
 - Animal management level 3 at BCA College
