@@ -1,27 +1,32 @@
-# Assignment-1
+# **Assignment-1**
 
 ## About Me
- ### My name is Gracie and I am studying to be a web developer.
+ > My name is Gracie and I am studying to be a web developer.
         
 ## Courses - Code First Girls
+```
 - Intro to Coding
 - Intro to Web Development
 - _CFG Degree_
-     
+```  
 ## Courses - Free Code Camp
+```
 - Intro to Html, building a cat photo app
 - Intro to Python
-   
+```   
 ## My Skills
+```
 - Python
 - HTML
 - JavaSript
 - CSS
 - _Github_
-      
+```      
 ## Education
+```
 - Animal management level 3 at BCA College
 - Secondary school
+```
 
 ![image](https://github.com/Gracie-Fenemer/Assignment-1/assets/160616602/4b03e0bc-4397-4713-b2bf-dd53b54f8aeb)
 ![image](https://github.com/Gracie-Fenemer/Assignment-1/assets/160616602/69ccd19a-1829-4c2e-8a5f-7fc5d0a4d954)
