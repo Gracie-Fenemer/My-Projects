@@ -1,13 +1,13 @@
 # **Assignment-1**
 
 ## About Me
- > My name is Gracie and I am studying to be a web developer.
+ > _My name is Gracie and I am studying to be a web developer._
         
 ## Courses - Code First Girls
 ```
 - Intro to Coding
 - Intro to Web Development
-- _CFG Degree_
+- CFG Degree
 ```  
 ## Courses - Free Code Camp
 ```
@@ -20,7 +20,7 @@
 - HTML
 - JavaSript
 - CSS
-- _Github_
+- Github
 ```      
 ## Education
 ```
