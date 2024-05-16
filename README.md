@@ -3,7 +3,7 @@
 ## About Me
  ### My name is Gracie and I am studying to be a web developer.
         
-## Courses - Cod First Girls
+## Courses - Code First Girls
 - Intro to Coding
 - Intro to Web Development
 - CFG Degree 
