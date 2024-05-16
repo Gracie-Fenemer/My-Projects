@@ -3,7 +3,7 @@
 ## About Me
  ### My name is Gracie and I am studying to be a web developer.
         
-## Courses - CFG
+## Courses - Code First Girls
 - Intro to Coding
 - Intro to Web Development
 - CFG Degree 
@@ -18,6 +18,7 @@
 - HTML
 - JavaSript
 - CSS
+- Github
       
 ## Education
 - Animal management level 3 at BCA College
