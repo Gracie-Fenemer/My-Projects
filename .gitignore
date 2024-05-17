@@ -1,1 +1,2 @@
 # This is required
+This file is used in a git repo to ignore all unneccessary files (specifially intentionally untracked files) and directories. Files already tracked by git are unaffected.
