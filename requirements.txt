@@ -1,1 +1,4 @@
 # This is a required file
+
+This is a file for a list of packages that is needed for the project (example; python library). It is useful for another person (developer or tester) downloading the repository as it will install the packages needed all at once via this file.
+
