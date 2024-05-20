@@ -1,4 +1,4 @@
-# **Assignment-1**
+# **CFG - Assignments**
 
 ## About Me
  > _My name is Gracie and I am studying <sup> (trying)</sup> to be a web developer._
