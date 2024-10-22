@@ -1,4 +1,0 @@
-# Your private MYSQL information
-USER = "YOUR_USER_HERE"
-HOST = "YOUR_HOST_HERE"
-PASSWORD = "YOUR_PASSWORD_HERE"
