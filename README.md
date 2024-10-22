@@ -7,7 +7,7 @@
 ```
 - Intro to Coding
 - Intro to Web Development
--	Code First Girls - 16-week Software Engineering Bootcamp (CFGDegree)
+- Code First Girls - 16-week Software Engineering Bootcamp (CFGDegree)
  
 ## Courses - Free Code Camp
 ```
