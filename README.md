@@ -8,13 +8,14 @@
 - Intro to Coding
 - Intro to Web Development
 - Code First Girls - 16-week Software Engineering Bootcamp (CFGDegree)
- 
+
+``` 
 ## Courses - Free Code Camp
 ```
 - Responsive Web Design: Building a Cat Photo App
 - Scientific Computing with Python 
 
-```   
+```
 ## My Skills
 ```
 •	Programming Languages: Python, JavaScript, HTML, CSS 
@@ -29,7 +30,7 @@
 ```
 - Animal management level 3 at BCA College
 - Secondary school ~ Furze Platt
-```
+
 
 
 
