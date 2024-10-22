@@ -1,9 +1,0 @@
-Here are the instructions for The One API;
-
-step 1: create your API key by creating an account with this link --> https://the-one-api.dev/sign-up
-
-step 2: replace the current key "api_key = 'YOUR KEY HERE'" (in the #IMPORTS section) with your key that you have just got
-
-step 3: datetime is a built-in Python module. Developers don't need to install it separately. It's right there.
-
-step 4: Run the code and attempt the quiz!
